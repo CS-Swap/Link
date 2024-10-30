@@ -1,4 +1,7 @@
 # Pagina dedicata ai link dei vari siti in cui i professori caricano il materiale
+
+[Frequentare](https://corsidilaurea.uniroma1.it/it/corso/2024/29923/programmazione)
+
 ## Secondo Anno
 > Primo semestre 
 >- [Basi Di Dati 1 - De Marsico](https://sites.google.com/di.uniroma1.it/basididati-modulo1canalem-z?usp=sharing)  
