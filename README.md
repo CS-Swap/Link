@@ -11,5 +11,5 @@
 
 > Secondo semestre 
 >- [Algo 2 - Monti](https://twiki.di.uniroma1.it/twiki/view/Algoritmi2/PALGdiario2014_2)  
->- [BD 2 - Esposito](https://classroom.google.com/u/1/c/NzE4Mzc4OTk5Nzgz)  
+>- [BD 2 - Esposito](https://elearning.uniroma1.it/course/section.php?id=263464)  
 ## Terzo Anno
